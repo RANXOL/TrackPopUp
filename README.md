@@ -1,5 +1,9 @@
 # TrackPopup 🎵
 
+DOWNLOAD
+
+https://github.com/RANXOL/TrackPopUp/releases/tag/v1.0
+
 A small Windows overlay that shows the currently playing media when the track changes.
 
 TrackPopup is designed to be minimal: a compact black popup with a white border, rounded corners, album artwork, track title, and artist. It slides down from the top of the screen, stays visible briefly, and then slides back up.
