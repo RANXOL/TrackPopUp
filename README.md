@@ -43,7 +43,7 @@ The project is already configured for self-contained, single-file `win-x64` publ
 
 ## Autostart
 
-After launching the published executable, use the TrackPopup icon in the Windows system tray and enable **Start with Windows** (`Запускать с Windows`).
+After launching the published executable, use the TrackPopup icon in the Windows system tray and enable **Start with Windows**.
 
 Keep the executable in the same location after enabling autostart because Windows stores its path.
 
