@@ -1,6 +1,6 @@
 # TrackPopup 🎵
 
-DOWNLOAD
+## DOWNLOAD
 
 https://github.com/RANXOL/TrackPopUp/releases/tag/v1.0
 
