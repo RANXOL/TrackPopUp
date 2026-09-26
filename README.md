@@ -71,3 +71,5 @@ TrackPopup/
 ## License
 
 No license has been selected yet. Until a license is added, the source code should not be assumed to be available for unrestricted reuse.
+
+description was made with AI assist, sorry fot that!
