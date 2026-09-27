@@ -14,7 +14,7 @@ TrackPopup is designed to be minimal: a compact black popup with a white border,
 
 - 🎵 Detects Windows media sessions
 - 🖼️ Shows album/track artwork when available
-- ⬆️ Smooth slide-in / slide-out animation from the top of the screen
+- ⬆️ Smooth slide-in animation from the top of the screen
 - ⬛ Black background with a thin white border
 - ◼️ Rounded corners
 - 🎮 Does not steal focus from the active application
